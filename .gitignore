@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings/
+target/
+.DS_Store
+*.pyc
+build/
+*.log
+webapp/WEB-INF/classes/
+/bin
